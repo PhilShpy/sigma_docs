@@ -1,5 +1,4 @@
 ## Sigma
----
 Sigma is simple a social network, where
 features are:
 - Registration and Login using the JWT
