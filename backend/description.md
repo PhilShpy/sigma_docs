@@ -1,5 +1,5 @@
 ## Sigma
-###backend application
+### Backend application
 Technologies:
 - Java 17
 - MySQL 8.*
